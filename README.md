@@ -1,6 +1,6 @@
 # Brewbot Belfast
 
-In an effort to build the best beer destination we can, we are opening up the development of our bar. This might just be the first bar on Github. If you like, fork it, and make it better.
+In an effort to build the best beer destination we can, we are opening up the development of our bar. This might just be the first bar on Github. If you like, fork it and make it better.
 
 Our vision for Brewbot Belfast is to build a bar that listens and learns so it can evolve to become a place people have shaped.
 
