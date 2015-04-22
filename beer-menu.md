@@ -30,10 +30,10 @@ Below is a list of the beers that have stood-out to the team during our Brewbot 
 - [Alesmith Speedway Stout](http://www.ratebeer.com/beer/alesmith-speedway-stout/14232/) • San Diego, CA
   - We met Stephen McNamara, one of our Kickstarter backers, during the campaign at The City Beer Store for a a few beers. This was the last one we shared before parting ways.
 - [Elevation's 7437](http://www.elevationbeerco.com/beer/black-diamond/7437-2/) • Colorado
-  - A corked double IPA by Austin-based brewery Elevation.
+  - A corked double IPA by Colorado-based brewery Elevation. It's a great beer to share with friends.
 - [Dale's Pale Ale](http://brew.oskarblues.com/ob-beers/year-round/dales-pale-ale/) • Colorado
   - Techstars!
 - [Dale's G'knight](http://brew.oskarblues.com/ob-beers/year-round/gknight/) • Colorado
   - Techstars!
 - [Beavertown Bloody 'Ell](http://www.ratebeer.com/beer/beavertown-bloody-ell/213354/) • London, England
-  - When Adam and Greg joined we celebrated over a few of these in The Woodworkers.
+  - When Adam and Greg joined the team we welcomed them over a few of these in The Woodworkers.
