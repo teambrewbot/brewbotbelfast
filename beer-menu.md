@@ -1,5 +1,7 @@
 
-# Brewbot Journey Beers
+# Beer Menu
+
+## Brewbot Journey Beers
 
 Below is a list of the beers that have stood-out to the team during our Brewbot journey. We'd love to stock each and every one of them in the bar.
 
