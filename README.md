@@ -10,4 +10,4 @@ We are interested in the whole process of brewing beer, from the hops picked by 
 
 We have the freedom to serve up the most crazy concoctions and see if they work or not — and if they don't, tell us. We are adopting an iterative approach to running our bar and we're looking forward to seeing how you shape it.
 
-- [Follow us on Twitter](http://www.brewbotbelfast.com)
+- [Follow us on Twitter](https://twitter.com/brewbotbelfast)
