@@ -5,15 +5,20 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:'Avenir LT W01_45 Book';
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #787a7d; }
 
 a {
   color: #1e6bb8;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
+
+strong {
+  font-family:'Avenir LT W01_65 Medium';
+}
 
 .btn {
   display: inline-block;
@@ -57,11 +62,23 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+  background-image: url(../images/bg-blueprint.png);
+  background-size: 10px 10px; }
+/*  .page-header img {
+    top: 30px;
+    left: 30px;
+    width: 300px;
+    display: block;
+    position: absolute; }
+*/
+  .page-header a {
+    color: #fff;
+    text-decoration: none;
+  }
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 5rem 6rem; } }
+    padding: 7rem 6rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
@@ -73,7 +90,8 @@ a {
 
 .project-name {
   margin-top: 0;
-  margin-bottom: 0.1rem; }
+  margin-bottom: 0.1rem;
+  font-family:'Avenir LT W01_65 Medium'; }
 
 @media screen and (min-width: 64em) {
   .project-name {
@@ -88,7 +106,7 @@ a {
     font-size: 1.75rem; } }
 
 .project-tagline {
-  margin-bottom: 2rem;
+  /*margin-bottom: 2rem;*/
   font-weight: normal;
   opacity: 0.7; }
 
@@ -109,10 +127,17 @@ a {
 .main-content img {
   max-width: 100%; }
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  text-transform: uppercase;
   margin-top: 2rem;
   margin-bottom: 1rem;
+  letter-spacing: 0.05em;
+  font-family: 'Forza SSm A', 'Forza SSm B';
   font-weight: normal;
-  color: #159957; }
+  color: #4C4F55; }
+  .main-content h2 {
+    font-size: 1.3rem; }
+  .main-content h3 {
+    font-size: 1rem; }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
@@ -175,6 +200,10 @@ a {
     margin-top: 0; }
   .main-content blockquote > :last-child {
     margin-bottom: 0; }
+  .main-content cite {
+    font-size: 0.9rem;
+    text-align: right;
+    opacity: 0.6; }
 .main-content table {
   display: block;
   width: 100%;
@@ -205,10 +234,14 @@ a {
 
 @media screen and (min-width: 64em) {
   .main-content {
-    max-width: 64rem;
+    max-width: 56rem;
     padding: 2rem 6rem;
     margin: 0 auto;
-    font-size: 1.1rem; } }
+    line-height: 1.75rem;
+    font-size: 1.1rem; }
+    article section {
+      margin: 3rem 2rem;
+      } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .main-content {
@@ -222,7 +255,7 @@ a {
 
 .site-footer {
   padding-top: 2rem;
-  margin-top: 2rem;
+  margin-top: 4rem;
   border-top: solid 1px #eff0f1; }
 
 .site-footer-owner {
@@ -234,7 +267,7 @@ a {
 
 @media screen and (min-width: 64em) {
   .site-footer {
-    font-size: 1rem; } }
+    font-size: 0.8rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .site-footer {
