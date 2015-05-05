@@ -239,9 +239,8 @@ strong {
     margin: 0 auto;
     line-height: 1.75rem;
     font-size: 1.1rem; }
-    article section {
-      margin: 3rem 2rem;
-      } }
+  article section {
+    margin: 1rem 0 4rem !important; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .main-content {
